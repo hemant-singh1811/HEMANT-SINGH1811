@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hemant Singh</h1>
  
 <h3 align="center">I'm IT Undergrad, Developer, Programmer, Tech enthusiast and A passionate Coderr! 😁</h3>
-
-<img  margin-top="0px" align="right" height="300px" width="400px" margin-bottom="-100px"  alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+ 
+<img   align="right" height="300px" width="400px" style="margin-top=0px"  alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+  
 
 <br>
 
