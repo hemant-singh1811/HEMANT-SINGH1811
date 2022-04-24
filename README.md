@@ -7,12 +7,13 @@
 
 <br>
 
+
+- 📚 I'm currently a IT udergrad student.
 - 👀 I’m currently working on Backend based Web Applications.
-- 🌱 I’m currently exploring Web3.
-- ⚡ Currently learning Solidity.
-- 🔥 I’m looking to collaborate on technical work sites and 
-      on ideas that count.
+- ⚡ Currently learning DS & ALGO & exploring Blockchain.
+- 🔥 I'm a Software Developer
 - 💬 Ask me about something I know 
+-  I publish all my projects on github so you can directly see them.
 - 📫 How to reach me **hemantsingh1852@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
