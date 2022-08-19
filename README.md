@@ -32,7 +32,7 @@
 <a href="https://auth.geeksforgeeks.org/user/hemant18singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemant18singh" height="30" width="40" /></a>
 <p><a href="https://leetcode.com/hemant-singh1811/" target="blank"><img align="center" src="https://leetcode.card.workers.dev/?username=hemant-singh1811 &style=default&font=Courier%20New&extension=null" width="450px" height="350px" /></a> </p>
 
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/matrix98/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/matrix98/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hemant18singh/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hemant18singh/practice/" height="30" width="40" /></a>
 
 <br>
 
